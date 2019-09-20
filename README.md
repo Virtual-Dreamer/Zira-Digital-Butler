@@ -4,9 +4,6 @@ Zira is a virtual desktop assistant programmed using Python 3.6
 # Things to consider:
 Zira requires stable internet connectivity. You will have to change some code for it to work on your system.
 
-WHAT TO CHANGE:
-
-
 # HOW TO USE:
 
 AVAILABLE APPLICATIONS:
