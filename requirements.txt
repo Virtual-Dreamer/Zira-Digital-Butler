@@ -1,0 +1,9 @@
+# MODULES NEEDED
+
+SpeechRecognition
+webbrowser
+pyttsx3
+winsound
+opencv-python
+pygame
+(IF THERE's MISSING PLEASE KINDLY INSTALL BY PIP)
