@@ -1,6 +1,12 @@
 # Zira-Digital-Butler
 Zira is a virtual desktop assistant programmed using Python 3.6
 
+# Things to consider:
+Zira requires stable internet connectivity. You will have to change some code for it to work on your system.
+
+WHAT TO CHANGE:
+
+
 # HOW TO USE:
 
 AVAILABLE APPLICATIONS:
@@ -55,6 +61,7 @@ Zira has the ability to search for places in different parts of the world. Tell 
 
 PLAY MUSIC:
 Zira can play music for you. Simply tell her the KEYWORD(play music)
+When you first run Zira, she will make folders in your C: Drive, please put all your music in the "Music" folder C:\Zira\Music for it to work
 
 TAKE A PICTURE:
 Zira can take a picture for you. Tell Zira the KEYWORD(take a picture)
