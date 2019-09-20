@@ -77,3 +77,6 @@ Zira can roll a single die for you. Use the KEYWORD(roll a die)
 
 SHUTDOWN:
 You can tell Zira to shutdown by using the KEYWORD(shutdown)
+
+# ERRORS
+IF THERE's ANY ERROR, KINDLY LEAVE A MESSAGE IN THE ERROR SECTIONS OR EMAIL ME: virtu4ldre4m4h@gmail.com 
