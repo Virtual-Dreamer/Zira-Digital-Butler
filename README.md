@@ -1,7 +1,7 @@
 # Zira-Digital-Butler
 Zira is a virtual desktop assistant programmed using Python 3.6
 
-HOW TO USE:
+# HOW TO USE:
 
 AVAILABLE APPLICATIONS:
 Notepad KEYWORD:(simple notepad)
