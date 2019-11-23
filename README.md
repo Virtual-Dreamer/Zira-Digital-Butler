@@ -79,4 +79,4 @@ SHUTDOWN:
 You can tell Zira to shutdown by using the KEYWORD(shutdown)
 
 # ERRORS
-IF THERE's ANY ERROR, KINDLY LEAVE A MESSAGE IN THE ERROR SECTIONS OR EMAIL ME: virtu4ldre4m4h@gmail.com 
+IF THERE's ANY ERROR, KINDLY LEAVE A MESSAGE IN THE ERROR SECTIONS OR EMAIL ME: constantinoallexus@gmail.com 
